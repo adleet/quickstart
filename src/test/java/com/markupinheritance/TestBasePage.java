@@ -1,4 +1,4 @@
-package com.my_markupinheritance;
+package com.markupinheritance;
 
 import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;
